@@ -1,0 +1,2 @@
+a = "000000ca5171e0796fc76e11082fda75abbdfd4286f83c9506e2f50ad1e07d3c"
+print(len(a))
